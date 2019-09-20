@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AccentColorBorder</string>
+
+    <string name="button_status_success">Success</string>
+    <string name="button_status_unsuccess">Unsuccess</string>
+
+    <string name="button_success_text">Updated members status.</string>
+    <string name="button_unsuccess_text">Something went wrong.</string>
+</resources>
